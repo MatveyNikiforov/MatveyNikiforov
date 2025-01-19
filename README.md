@@ -5,7 +5,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 I'm Nikiforov Matvey, I am a community guy who loves math, Python and DS.
 -------------------------------------------------------------------------
 
-🧐 About I am a Data Science student, I am currently learning this field and working on this page
+🧐 About: I am a Data Science student, I am currently learning this field and working on this page
 
 * ✉️  You can contact me at [nikiforovmatvey441@gmail.com](mailto:nikiforovmatvey441@gmail.com)
 
